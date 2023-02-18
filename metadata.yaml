@@ -1,0 +1,28 @@
+_repo: Kyla-ja-kaupunki-b-Laatukuvia_69967
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kojo, Viljo
+    alias: Kojo, Viljo Johannes
+    birthdate: 1891
+    deathdate: 1966
+    gutenberg_agent_id: '55474'
+    url: http://www.gutenberg.org/2009/agents/55474
+    wikipedia: https://fi.wikipedia.org/wiki/Viljo_Kojo
+description: ''
+gutenberg_issued: '2023-02-06'
+identifiers:
+  gutenberg: '69967'
+language: fi
+pgterms:marc905: 20230126044712kojo
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aFinland :$bOtava, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kylä ja kaupunki : $b Laatukuvia'
+url: http://www.gutenberg.org/ebooks/69967
